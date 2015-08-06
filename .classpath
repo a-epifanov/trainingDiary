@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/git/trainingDiary/src/resources/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/git/trainingDiary/src/resources/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/git/trainingDiary/src/resources/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/git/trainingDiary/src/resources/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/git/trainingDiary/libs/jfontchooser-1.0.5/jfontchooser-1.0.5.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="C:/git/trainingDiary/libs/coollection-0.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

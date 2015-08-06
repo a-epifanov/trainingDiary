@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+<trpl id="0" name="1">
+</trpl>
+<trpl id="1" name="2">
+<trn dt="9.7.2015">
+<tsk ex="1" rc="1" sc="1" w="0"/>
+</trn>
+</trpl>
+
+
+<trpl id="4" name="5"/>
+<trpl id="5" name="6">
+<trn dt="9.7.2015">
+<tsk ex="1" rc="1" sc="1" w="0"/>
+</trn>
+</trpl>
+<trpl id="6" name="7"/>
+
+<trpl id="8" name="8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<trn dt="9.7.2015">
+<tsk ex="0" rc="1" sc="1" w="0"/>
+<tsk ex="1" rc="1" sc="1" w="0"/>
+<tsk ex="1" rc="1" sc="1" w="2"/>
+<tsk ex="1" rc="1" sc="1" w="3"/>
+<tsk ex="1" rc="1" sc="3" w="0"/>
+<tsk ex="1" rc="1" sc="1" w="0"/>
+</trn>
+
+
+</trpl>
+
+<trpl id="10" name="15">
+
+
+<trn dt="10.7.2015">
+<tsk ex="1" rc="1" sc="1" w="0"/>
+<tsk ex="4" rc="1" sc="1" w="0"/>
+<tsk ex="11" rc="1" sc="1" w="0"/>
+</trn>
+</trpl>
+<trpl id="11" name="15">
+<trn dt="10.7.2015">
+<tsk ex="11" rc="1" sc="1" w="0"/>
+<tsk ex="12" rc="1" sc="1" w="0"/>
+</trn>
+</trpl>
+<trpl id="12" name="тест">
+
+<trn dt="10.7.2015">
+<tsk ex="3" rc="1" sc="1" w="0"/>
+<tsk ex="4" rc="1" sc="1" w="3"/>
+</trn>
+</trpl>
+<trpl id="13" name="тест">
+
+
+
+<trn dt="10.7.2015">
+<tsk ex="13" rc="1" sc="1" w="0"/>
+<tsk ex="14" rc="1" sc="1" w="3"/>
+<tsk ex="3" rc="1" sc="1" w="10"/>
+<tsk ex="5" rc="1" sc="1" w="0"/>
+<tsk ex="5" rc="1" sc="1" w="0"/>
+</trn>
+</trpl>
+<trpl id="14" name="тест">
+<trn dt="10.7.2015">
+<tsk ex="13" rc="1" sc="1" w="0"/>
+<tsk ex="14" rc="1" sc="1" w="3"/>
+</trn>
+</trpl>
+</root>

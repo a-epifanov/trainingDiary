@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+<ex cat="Другое" desc="Description 0" id="0" name="Exercise 0"/>
+<ex cat="Другое" desc="Description 1" id="1" name="Exercise 1"/>
+<ex cat="Другое" desc="Description 2" id="2" name="Exercise 2"/>
+<ex cat="Другое" desc="Description 3" id="3" name="Exercise 3"/>
+<ex cat="Другое" desc="Description 4" id="4" name="Exercise 4"/>
+<ex cat="Другое" desc="Description 5" id="5" name="Exercise 5"/>
+<ex cat="Другое" desc="Description 6" id="6" name="Exercise 6"/>
+<ex cat="Другое" desc="Description 7" id="7" name="Exercise 7"/>
+<ex cat="Другое" desc="Description 8" id="8" name="Exercise 8"/>
+<ex cat="Другое" desc="Description 9" id="9" name="Exercise 9"/>
+<ex cat="Другое" desc="Description 10" id="10" name="Exercise 10"/>
+<ex cat="Другое" desc="Description 11" id="11" name="Exercise 11"/>
+<ex cat="Другое" desc="Description 12" id="12" name="Exercise 12"/>
+<ex cat="Другое" desc="Description 13" id="13" name="Exercise 13"/>
+<ex cat="Другое" desc="Description 14" id="14" name="Exercise 14"/>
+<ex cat="Другое" desc="Description 15" id="15" name="Exercise 15"/>
+<ex cat="Другое" desc="Description 16" id="16" name="Exercise 16"/>
+<ex cat="Другое" desc="Description 17" id="17" name="Exercise 17"/>
+<ex cat="Другое" desc="Description 18" id="18" name="Exercise 18"/>
+<ex cat="Другое" desc="Description 19" id="19" name="Exercise 19"/>
+<ex cat="Другое" desc="Description 20" id="20" name="Exercise 20"/>
+<ex cat="Другое" desc="Description 21" id="21" name="Exercise 21"/>
+<ex cat="Другое" desc="Description 22" id="22" name="Exercise 22"/>
+<ex cat="Другое" desc="Description 23" id="23" name="Exercise 23"/>
+<ex cat="Другое" desc="Description 24" id="24" name="Exercise 24"/>
+<ex cat="Другое" desc="Description 25" id="25" name="Exercise 25"/>
+<ex cat="Другое" desc="Description 26" id="26" name="Exercise 26"/>
+<ex cat="Другое" desc="Description 27" id="27" name="Exercise 27"/>
+<ex cat="Другое" desc="Description 28" id="28" name="Exercise 28"/>
+<trpl id="0" name="Some plan">
+<trn dt="30.6.2015">
+<tsk ex="0" rc="1" sc="1" w="0"/>
+<tsk ex="1" rc="1" sc="1" w="0"/>
+<tsk ex="2" rc="1" sc="1" w="0"/>
+<tsk ex="3" rc="1" sc="1" w="0"/>
+<tsk ex="4" rc="1" sc="1" w="0"/>
+<tsk ex="5" rc="1" sc="1" w="0"/>
+<tsk ex="6" rc="1" sc="1" w="0"/>
+<tsk ex="7" rc="1" sc="1" w="0"/>
+<tsk ex="8" rc="1" sc="1" w="0"/>
+<tsk ex="9" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="1.7.2015">
+<tsk ex="1" rc="1" sc="1" w="0"/>
+<tsk ex="2" rc="1" sc="1" w="0"/>
+<tsk ex="3" rc="1" sc="1" w="0"/>
+<tsk ex="4" rc="1" sc="1" w="0"/>
+<tsk ex="5" rc="1" sc="1" w="0"/>
+<tsk ex="6" rc="1" sc="1" w="0"/>
+<tsk ex="7" rc="1" sc="1" w="0"/>
+<tsk ex="8" rc="1" sc="1" w="0"/>
+<tsk ex="9" rc="1" sc="1" w="0"/>
+<tsk ex="10" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="2.7.2015">
+<tsk ex="2" rc="1" sc="1" w="0"/>
+<tsk ex="3" rc="1" sc="1" w="0"/>
+<tsk ex="4" rc="1" sc="1" w="0"/>
+<tsk ex="5" rc="1" sc="1" w="0"/>
+<tsk ex="6" rc="1" sc="1" w="0"/>
+<tsk ex="7" rc="1" sc="1" w="0"/>
+<tsk ex="8" rc="1" sc="1" w="0"/>
+<tsk ex="9" rc="1" sc="1" w="0"/>
+<tsk ex="10" rc="1" sc="1" w="0"/>
+<tsk ex="11" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="3.7.2015">
+<tsk ex="3" rc="1" sc="1" w="0"/>
+<tsk ex="4" rc="1" sc="1" w="0"/>
+<tsk ex="5" rc="1" sc="1" w="0"/>
+<tsk ex="6" rc="1" sc="1" w="0"/>
+<tsk ex="7" rc="1" sc="1" w="0"/>
+<tsk ex="8" rc="1" sc="1" w="0"/>
+<tsk ex="9" rc="1" sc="1" w="0"/>
+<tsk ex="10" rc="1" sc="1" w="0"/>
+<tsk ex="11" rc="1" sc="1" w="0"/>
+<tsk ex="12" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="4.7.2015">
+<tsk ex="4" rc="1" sc="1" w="0"/>
+<tsk ex="5" rc="1" sc="1" w="0"/>
+<tsk ex="6" rc="1" sc="1" w="0"/>
+<tsk ex="7" rc="1" sc="1" w="0"/>
+<tsk ex="8" rc="1" sc="1" w="0"/>
+<tsk ex="9" rc="1" sc="1" w="0"/>
+<tsk ex="10" rc="1" sc="1" w="0"/>
+<tsk ex="11" rc="1" sc="1" w="0"/>
+<tsk ex="12" rc="1" sc="1" w="0"/>
+<tsk ex="13" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="5.7.2015">
+<tsk ex="5" rc="1" sc="1" w="0"/>
+<tsk ex="6" rc="1" sc="1" w="0"/>
+<tsk ex="7" rc="1" sc="1" w="0"/>
+<tsk ex="8" rc="1" sc="1" w="0"/>
+<tsk ex="9" rc="1" sc="1" w="0"/>
+<tsk ex="10" rc="1" sc="1" w="0"/>
+<tsk ex="11" rc="1" sc="1" w="0"/>
+<tsk ex="12" rc="1" sc="1" w="0"/>
+<tsk ex="13" rc="1" sc="1" w="0"/>
+<tsk ex="14" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="6.7.2015">
+<tsk ex="6" rc="1" sc="1" w="0"/>
+<tsk ex="7" rc="1" sc="1" w="0"/>
+<tsk ex="8" rc="1" sc="1" w="0"/>
+<tsk ex="9" rc="1" sc="1" w="0"/>
+<tsk ex="10" rc="1" sc="1" w="0"/>
+<tsk ex="11" rc="1" sc="1" w="0"/>
+<tsk ex="12" rc="1" sc="1" w="0"/>
+<tsk ex="13" rc="1" sc="1" w="0"/>
+<tsk ex="14" rc="1" sc="1" w="0"/>
+<tsk ex="15" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="7.7.2015">
+<tsk ex="7" rc="1" sc="1" w="0"/>
+<tsk ex="8" rc="1" sc="1" w="0"/>
+<tsk ex="9" rc="1" sc="1" w="0"/>
+<tsk ex="10" rc="1" sc="1" w="0"/>
+<tsk ex="11" rc="1" sc="1" w="0"/>
+<tsk ex="12" rc="1" sc="1" w="0"/>
+<tsk ex="13" rc="1" sc="1" w="0"/>
+<tsk ex="14" rc="1" sc="1" w="0"/>
+<tsk ex="15" rc="1" sc="1" w="0"/>
+<tsk ex="16" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="8.7.2015">
+<tsk ex="8" rc="1" sc="1" w="0"/>
+<tsk ex="9" rc="1" sc="1" w="0"/>
+<tsk ex="10" rc="1" sc="1" w="0"/>
+<tsk ex="11" rc="1" sc="1" w="0"/>
+<tsk ex="12" rc="1" sc="1" w="0"/>
+<tsk ex="13" rc="1" sc="1" w="0"/>
+<tsk ex="14" rc="1" sc="1" w="0"/>
+<tsk ex="15" rc="1" sc="1" w="0"/>
+<tsk ex="16" rc="1" sc="1" w="0"/>
+<tsk ex="17" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="9.7.2015">
+<tsk ex="9" rc="1" sc="1" w="0"/>
+<tsk ex="10" rc="1" sc="1" w="0"/>
+<tsk ex="11" rc="1" sc="1" w="0"/>
+<tsk ex="12" rc="1" sc="1" w="0"/>
+<tsk ex="13" rc="1" sc="1" w="0"/>
+<tsk ex="14" rc="1" sc="1" w="0"/>
+<tsk ex="15" rc="1" sc="1" w="0"/>
+<tsk ex="16" rc="1" sc="1" w="0"/>
+<tsk ex="17" rc="1" sc="1" w="0"/>
+<tsk ex="18" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="10.7.2015">
+<tsk ex="10" rc="1" sc="1" w="0"/>
+<tsk ex="11" rc="1" sc="1" w="0"/>
+<tsk ex="12" rc="1" sc="1" w="0"/>
+<tsk ex="13" rc="1" sc="1" w="0"/>
+<tsk ex="14" rc="1" sc="1" w="0"/>
+<tsk ex="15" rc="1" sc="1" w="0"/>
+<tsk ex="16" rc="1" sc="1" w="0"/>
+<tsk ex="17" rc="1" sc="1" w="0"/>
+<tsk ex="18" rc="1" sc="1" w="0"/>
+<tsk ex="19" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="11.7.2015">
+<tsk ex="11" rc="1" sc="1" w="0"/>
+<tsk ex="12" rc="1" sc="1" w="0"/>
+<tsk ex="13" rc="1" sc="1" w="0"/>
+<tsk ex="14" rc="1" sc="1" w="0"/>
+<tsk ex="15" rc="1" sc="1" w="0"/>
+<tsk ex="16" rc="1" sc="1" w="0"/>
+<tsk ex="17" rc="1" sc="1" w="0"/>
+<tsk ex="18" rc="1" sc="1" w="0"/>
+<tsk ex="19" rc="1" sc="1" w="0"/>
+<tsk ex="20" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="12.7.2015">
+<tsk ex="12" rc="1" sc="1" w="0"/>
+<tsk ex="13" rc="1" sc="1" w="0"/>
+<tsk ex="14" rc="1" sc="1" w="0"/>
+<tsk ex="15" rc="1" sc="1" w="0"/>
+<tsk ex="16" rc="1" sc="1" w="0"/>
+<tsk ex="17" rc="1" sc="1" w="0"/>
+<tsk ex="18" rc="1" sc="1" w="0"/>
+<tsk ex="19" rc="1" sc="1" w="0"/>
+<tsk ex="20" rc="1" sc="1" w="0"/>
+<tsk ex="21" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="13.7.2015">
+<tsk ex="13" rc="1" sc="1" w="0"/>
+<tsk ex="14" rc="1" sc="1" w="0"/>
+<tsk ex="15" rc="1" sc="1" w="0"/>
+<tsk ex="16" rc="1" sc="1" w="0"/>
+<tsk ex="17" rc="1" sc="1" w="0"/>
+<tsk ex="18" rc="1" sc="1" w="0"/>
+<tsk ex="19" rc="1" sc="1" w="0"/>
+<tsk ex="20" rc="1" sc="1" w="0"/>
+<tsk ex="21" rc="1" sc="1" w="0"/>
+<tsk ex="22" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="14.7.2015">
+<tsk ex="14" rc="1" sc="1" w="0"/>
+<tsk ex="15" rc="1" sc="1" w="0"/>
+<tsk ex="16" rc="1" sc="1" w="0"/>
+<tsk ex="17" rc="1" sc="1" w="0"/>
+<tsk ex="18" rc="1" sc="1" w="0"/>
+<tsk ex="19" rc="1" sc="1" w="0"/>
+<tsk ex="20" rc="1" sc="1" w="0"/>
+<tsk ex="21" rc="1" sc="1" w="0"/>
+<tsk ex="22" rc="1" sc="1" w="0"/>
+<tsk ex="23" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="15.7.2015">
+<tsk ex="15" rc="1" sc="1" w="0"/>
+<tsk ex="16" rc="1" sc="1" w="0"/>
+<tsk ex="17" rc="1" sc="1" w="0"/>
+<tsk ex="18" rc="1" sc="1" w="0"/>
+<tsk ex="19" rc="1" sc="1" w="0"/>
+<tsk ex="20" rc="1" sc="1" w="0"/>
+<tsk ex="21" rc="1" sc="1" w="0"/>
+<tsk ex="22" rc="1" sc="1" w="0"/>
+<tsk ex="23" rc="1" sc="1" w="0"/>
+<tsk ex="24" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="16.7.2015">
+<tsk ex="16" rc="1" sc="1" w="0"/>
+<tsk ex="17" rc="1" sc="1" w="0"/>
+<tsk ex="18" rc="1" sc="1" w="0"/>
+<tsk ex="19" rc="1" sc="1" w="0"/>
+<tsk ex="20" rc="1" sc="1" w="0"/>
+<tsk ex="21" rc="1" sc="1" w="0"/>
+<tsk ex="22" rc="1" sc="1" w="0"/>
+<tsk ex="23" rc="1" sc="1" w="0"/>
+<tsk ex="24" rc="1" sc="1" w="0"/>
+<tsk ex="25" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="17.7.2015">
+<tsk ex="17" rc="1" sc="1" w="0"/>
+<tsk ex="18" rc="1" sc="1" w="0"/>
+<tsk ex="19" rc="1" sc="1" w="0"/>
+<tsk ex="20" rc="1" sc="1" w="0"/>
+<tsk ex="21" rc="1" sc="1" w="0"/>
+<tsk ex="22" rc="1" sc="1" w="0"/>
+<tsk ex="23" rc="1" sc="1" w="0"/>
+<tsk ex="24" rc="1" sc="1" w="0"/>
+<tsk ex="25" rc="1" sc="1" w="0"/>
+<tsk ex="26" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="18.7.2015">
+<tsk ex="18" rc="1" sc="1" w="0"/>
+<tsk ex="19" rc="1" sc="1" w="0"/>
+<tsk ex="20" rc="1" sc="1" w="0"/>
+<tsk ex="21" rc="1" sc="1" w="0"/>
+<tsk ex="22" rc="1" sc="1" w="0"/>
+<tsk ex="23" rc="1" sc="1" w="0"/>
+<tsk ex="24" rc="1" sc="1" w="0"/>
+<tsk ex="25" rc="1" sc="1" w="0"/>
+<tsk ex="26" rc="1" sc="1" w="0"/>
+<tsk ex="27" rc="1" sc="1" w="0"/>
+</trn>
+<trn dt="19.7.2015">
+<tsk ex="19" rc="1" sc="1" w="0"/>
+<tsk ex="20" rc="1" sc="1" w="0"/>
+<tsk ex="21" rc="1" sc="1" w="0"/>
+<tsk ex="22" rc="1" sc="1" w="0"/>
+<tsk ex="23" rc="1" sc="1" w="0"/>
+<tsk ex="24" rc="1" sc="1" w="0"/>
+<tsk ex="25" rc="1" sc="1" w="0"/>
+<tsk ex="26" rc="1" sc="1" w="0"/>
+<tsk ex="27" rc="1" sc="1" w="0"/>
+<tsk ex="28" rc="1" sc="1" w="0"/>
+</trn>
+</trpl>
+</root>
